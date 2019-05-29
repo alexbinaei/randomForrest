@@ -62,8 +62,8 @@
 * intuitive and explainable
 * handles both categorical and numeric features
 * ---> most model types require pre processing to handle categorical features i.e. one-hot-encoding
-* --> do not need to normalize data
-* --> approximates non-linear functions
+* ---> do not need to normalize data
+* ---> approximates non-linear functions
 
 # Disadvantages
 * prone to overfitting ... as with any model that can approximate non-linear functions
