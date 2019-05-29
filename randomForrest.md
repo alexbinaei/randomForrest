@@ -32,7 +32,7 @@
 * select question that splits your data into a state of lowest entropy
 * repeat
 
-## ## Decision Trees (3)
+## Decision Trees (3)
 * first question selected is root-node
 * subsequent questions are interior nodes
 * final questions for each branch in tree are "leaf" nodes
